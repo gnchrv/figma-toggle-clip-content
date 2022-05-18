@@ -1,17 +1,7 @@
 {
-    "name": "Plugin Name",
-    "id": "000000000000000000",
+    "name": "Toggle Clip Content",
+    "id": "1108861824194364527",
     "api": "1.0.0",
     "editorType": ["figma", "figjam"],
-    "main": "dist/index.js",
-    "menu": [
-        {
-            "name": "First Command",
-            "command": "first-command"
-        },
-        {
-            "name": "Second Command",
-            "command": "second-command"
-        }
-    ]
+    "main": "dist/index.js"
 }
