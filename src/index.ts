@@ -22,7 +22,7 @@ for (const node of selection) {
     // Set a clipping mode of the first element if it hasn’t been set yet
     if (isFirstNodeClipped === undefined) isFirstNodeClipped = node.clipsContent
     
-    // Change an element’s clipping to the mode which is opposite of the first one
+    // Change an element’s clipping to the mode which is the opposite from the first one
     node.clipsContent = !isFirstNodeClipped
 }
 
