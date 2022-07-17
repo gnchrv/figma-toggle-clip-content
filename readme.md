@@ -1,4 +1,4 @@
-# Toggle Clip Content
+# Toggle Clip Content ![runs](https://img.shields.io/endpoint?url=https://yuanqing.github.io/figma-plugins-stats/plugin/1108861824194364527/runs.json) ![installs](https://img.shields.io/endpoint?url=https://yuanqing.github.io/figma-plugins-stats/plugin/1108861824194364527/installs.json) ![likes](https://img.shields.io/endpoint?url=https://yuanqing.github.io/figma-plugins-stats/plugin/1108861824194364527/likes.json)
 
 ![Plugin Cover](assets/plugin-cover.png)
 
