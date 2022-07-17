@@ -4,4 +4,4 @@
 
 This is a simple Figma plugin that allows to toggle elements clipping modes from the keyboard. Simply add a shortcut in macOS Preferences.
 
-Before, this command was available inside the macOS menu in Figma. Now, it’s missing and there’s no way to toggle an element’s clipping mode from the keyboard. This plugin brings this option back.
+Previously, this command was available in the menu bar and could have a configurable shortcut. Now, the command is missing and there’s no way to toggle an element’s clipping mode from the keyboard. This plugin brings this option back.
